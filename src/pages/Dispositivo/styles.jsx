@@ -22,7 +22,7 @@ export const ButtonSave = styled.button`
   margin: 4px;
   border: none;
   border-radius: 5px;
-  background-color: #e7702f;
+  background-color: #24d1a2;
   font-weight: bold;
   color: white;
   cursor: pointer;
