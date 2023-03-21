@@ -1,6 +1,8 @@
 # Projeto Integrador - Gerenciador de Dispositivos
 
-Este projeto tem como finalidade servir de material de avaliação para a cadeira de ..... da Universidade de Santa Cruz do Sul [(UNISC)](https://www.unisc.br/pt/) ... (Encher linguiça sobre o projeto). Projeto desenvolvido por: [Cassia Scherer](https://github.com/cassia-shr) ...
+Este projeto tem como finalidade servir de material de avaliação para a diciplina Projeto Integrador. da Universidade de Santa Cruz do Sul [(UNISC)](https://www.unisc.br/pt/) ... A aplicação constitui-se basicamente dos conceitos de catalogação e pesquisa das máquinas por detalhes técnicos. Tela inicial com listagem dos dispositivos que já foram cadastrados e botão “Cadastrar dispositivo” que direciona para tela de cadastro de dispositivos. Nesta vai conter um formulário onde serão preenchidas algumas especificidades como: Nome do dispositivo, número de IP, Sistema Operacional, tipo de dispositivo, processador, memória RAM e usuário que está logado na máquina. Ao final terá dois botões, “Cancelar” e “Salvar” onde pode cancelar a operação e salvar os dados respectivamente. Ao salvar o formulário, será incluída uma nova linha na tabela onde contam todos os dados preenchidos. 
+
+Será desenvolvido em ambiente web, de forma responsiva para que possa ser utilizado em diferentes tipos de dispositivos. Desta forma o atendimento ao suporte de TI será facilitado, pois poderá ser consultado no navegador. Utilizaremos HTML, CSS, REACT e JSON para armazenamento dos dados em servidor. Projeto desenvolvido por: [Cassia Scherer](https://github.com/cassia-shr) ...
 
 ## Como rodar o projeto
 
@@ -22,16 +24,16 @@ Assim que o **Servidor Json** for inicializado podemos proseguir e iniciar o ser
 
 ## Como utilizar a aplicação
 
-O projeto possui as seguintes funcionalidades... (encher linguiça)
+O projeto possui as seguintes funcionalidades: cadastro e pesquisa de dispositivos.
 
 ### Tela Inicial
 
-Ao acessar a aplicação na tela inicial temos a apresentação da lista de ...
+Ao acessar a aplicação na tela inicial temos a apresentação da lista de dispositivos com suas especificidades.
 
 #### Filtro
 
-Pode-se utilizar o filtro para ...
+Pode-se utilizar o filtro para localizar por IP, SO ou TIPO.
 
 ### Tela de Edição
 
-Para o melhor controle podemos adicionar, editar e remover dispositivos
+Para o melhor controle podemos adicionar, editar e remover dispositivos.
