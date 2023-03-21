@@ -22,7 +22,7 @@ export const Button = styled.button`
     padding: 7px;
     border: none;
     border-radius: 5px;
-    background-color: #e7702f;
+    background-color: #24d1a2;
     font-weight: bold;
     color: white;
     cursor: pointer;
@@ -56,7 +56,7 @@ export const FilterButton = styled.button`
   padding: 7px;
   border: none;
   border-radius: 5px;
-  background-color: #e7702f;
+  background-color: #24d1a2;
   font-weight: bold;
   color: white;
   cursor: pointer;
@@ -89,7 +89,7 @@ export const Table = styled.table`
             font-size: 12px;
             border: none;
             border-radius: 5px;
-            background-color: #e7702f;
+            background-color: #24d1a2;
             font-weight: bold;
             color: white;
             cursor: pointer;
