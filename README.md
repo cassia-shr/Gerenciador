@@ -1,8 +1,11 @@
 # Projeto Integrador - Gerenciador de Dispositivos
 
-Este projeto tem como finalidade servir de material de avaliação para a diciplina Projeto Integrador. da Universidade de Santa Cruz do Sul [(UNISC)](https://www.unisc.br/pt/) ... A aplicação constitui-se basicamente dos conceitos de catalogação e pesquisa das máquinas por detalhes técnicos. Tela inicial com listagem dos dispositivos que já foram cadastrados e botão “Cadastrar dispositivo” que direciona para tela de cadastro de dispositivos. Nesta vai conter um formulário onde serão preenchidas algumas especificidades como: Nome do dispositivo, número de IP, Sistema Operacional, tipo de dispositivo, processador, memória RAM e usuário que está logado na máquina. Ao final terá dois botões, “Cancelar” e “Salvar” onde pode cancelar a operação e salvar os dados respectivamente. Ao salvar o formulário, será incluída uma nova linha na tabela onde contam todos os dados preenchidos. 
+Este projeto tem como finalidade servir de material de avaliação para a diciplina Projeto Integrador da Universidade de Santa Cruz do Sul [(UNISC)](https://www.unisc.br/pt/) ... 
 
-Será desenvolvido em ambiente web, de forma responsiva para que possa ser utilizado em diferentes tipos de dispositivos. Desta forma o atendimento ao suporte de TI será facilitado, pois poderá ser consultado no navegador. Utilizaremos HTML, CSS, REACT e JSON para armazenamento dos dados em servidor. Projeto desenvolvido por: [Cassia Scherer](https://github.com/cassia-shr) ...
+A aplicação constitui-se basicamente dos conceitos de catalogação e pesquisa das máquinas por detalhes técnicos. Tela inicial com listagem dos dispositivos que já foram cadastrados e botão “Cadastrar dispositivo” que direciona para tela de cadastro de dispositivos. Nesta vai conter um formulário onde serão preenchidas algumas especificidades como: nome do dispositivo, número de IP, Sistema Operacional, tipo de dispositivo, processador, memória RAM e usuário que está logado na máquina. 
+Ao final terá dois botões, “Cancelar” e “Salvar” onde pode cancelar a operação e salvar os dados respectivamente. Ao salvar o formulário, será incluída uma nova linha na tabela onde contam todos os dados preenchidos. 
+
+Será desenvolvido em ambiente web, de forma responsiva. Desta forma o atendimento ao suporte de TI será facilitado, pois poderá ser consultado no navegador. Utilizaremos HTML, CSS, REACT e JSON para armazenamento dos dados em servidor. Projeto desenvolvido por: [Cassia Scherer](https://github.com/cassia-shr) ...
 
 ## Como rodar o projeto
 
